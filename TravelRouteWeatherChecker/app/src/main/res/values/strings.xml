@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Travel Route Weather Checker</string>
+    <string name="btnStartNew">Start New Route</string>
+    <string name="btnSelectSaved">Select Saved Route</string>
+    <string name="btnAddLocation">Add Location</string>
+    <string name="btnRouteComplete">Route Complete</string>
+    <string name="txtEnterLocation">&#160;&#160;&#160;&#160;Enter Location</string>
+    <string name="txtCoordinates">Enter Coordinates:</string>
+    <string name="txtLatitude">Latitude</string>
+    <string name="txtLongitude">Longitude</string>
+    <string name="txtLocation"><b><i>OR</i></b> Enter Location:</string>
+    <string name="txtEnterTime">&#160;&#160;&#160;&#160;Enter the day and time you will be at the location</string>
+    <string name="txtTime">Time:</string>
+    <string name="txtDate">Date:</string>
+    <string name="btnSubmitLocation">Find Location</string>
+    <string name="btnConfirmTime">Confirm Location</string>
+    <string name="openMapsRoot">https://nominatim.openstreetmap.org/search?q=</string>
+    <string name="openMapsSuffix">&amp;format=json&amp;addressdetails=1</string>
+    <string name="coordinatesPrefix">https://maps.googleapis.com/maps/api/geocode/json?latlng=</string>
+    <string name="coordinatesMid">,</string>
+    <string name="coordinatesSuffix">&amp;key=AIzaSyAadPVKX_-TMNeuMihbNQcZrVuKSJXToNg</string>
+    <string name="txtChooseLocation">Choose the correct location:</string>
+    <string name="enterLocationMessage">Please enter either both coordinates, or a location name.</string>
+    <string name="google_geolocation">https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyAadPVKX_-TMNeuMihbNQcZrVuKSJXToNg</string>
+    <string name="weatherPrefix">http://api.openweathermap.org/data/2.5/forecast?lat=</string>
+    <string name="weatherMid">&amp;lon=</string>
+    <string name="weatherSuffix">&amp;APPID=7098c80a5bc096547ee7ea917ab1c712</string>
+    <string name="btnContinue">Continue</string>
+    <string name="txtDay">Enter Day:</string>
+    <string name="txtHour">Enter Hour:</string>
+    <string name="btnEnterTime">Enter Time</string>
+    <string name="btnConfirmTime1">ConfirmTime</string>
+    <string name="btnRouteName">Enter a name for your route</string>
+    <string name="txtSavedRoutes">&#160;&#160;&#160;&#160;Saved Routes</string>
+    <string name="btnDeleteRoute">Delete Route</string>
+    <string name="txtRouteLocations">&#160;&#160;&#160;&#160;Saved Locations</string>
+    <string name="txtLocationLat">Latitude:</string>
+    <string name="txtLocationLon">Longitude:</string>
+    <string name="txtLocationTemp">Temperature:</string>
+    <string name="txtLocationForecast">Forecast:</string>
+    <string name="txtLocationTime">Time:</string>
+    <string name="txtTitle">Travel Route Weather Checker</string>
+</resources>
